@@ -2,7 +2,7 @@
 
 This was my final project for my university class on [databases](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-336-principles-of-information-and-data-management).
 
-The goal of the project was to showcase our data management and analysis skills by writing complex queries from scratch. I utilized stored procedures and triggers to write API calls to the MySQL server that contained the database of 486,413 voting records from the state of Pennsylvania.
+The goal of the project was to showcase our data management and analysis skills by writing complex queries from scratch. I employed stored procedures and triggers in MySQL to automate processing for 486,413 Pennsylvania electoral records.
 
 <p align="center">
   <img src="./extras/trumpbiden.gif" width="370" height="208"/>
