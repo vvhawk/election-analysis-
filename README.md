@@ -1,4 +1,4 @@
-# 2020 USA Election Analysis 🇺🇸
+# 2020 US Election Analysis 🇺🇸
 
 This was my final project for my university class on [databases](https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-336-principles-of-information-and-data-management).
 
